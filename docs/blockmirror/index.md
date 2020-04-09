@@ -1,7 +1,7 @@
 # Privacy Policy
  
 Block Mirror Privacy Policy
-Last Updated 08/09/2019
+Last Updated 09/04/2020
  
 RH POSITIVE built the Block Mirror app as an Ad Supported-Free app. This SERVICE is provided by RH POSITIVE at no cost and is intended for use as is.
  
