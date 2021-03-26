@@ -23,6 +23,8 @@ Link to privacy policy of third party service providers used by the app
 •	Google Play Services
 •	Admob (Google)
 •	UnityAnalytics
+•	Adjust
+•	Facebook
 
  
 # Automatically Collected Information
@@ -34,6 +36,10 @@ In addition, the Application may collect certain information automatically, incl
 
 We work with advertisers and third party advertising networks, who need to know how you interact with advertising provided in the Application which helps us keep the the Application free. Advertisers and advertising networks use some of the information collected by the Application, including, but not limited to, the unique identification ID and Android advertising ID of your mobile device. These third parties may also obtain anonymous information about other applications you’ve downloaded to your mobile device, the mobile websites you visit, your non-precise location information (e.g., your zip code), and other non- precise location information in order to help analyse and serve anonymous targeted advertising on the Application and elsewhere.
 We may also share information you have provided in order to enable our partners to append other available information about you for analysis or advertising related use.
+ 
+ # User Data Deletion
+
+You can ask us to erase or delete all or some of your personal data. To do this, please contact us at any time at rhpositivegames@gmail.com.
  
 # In-App Purchases
 
