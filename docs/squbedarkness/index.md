@@ -1,5 +1,5 @@
 Privacy Policy
-Sqube Darkness Privacy Policy Last Updated 08/09/2019
+Sqube Darkness Privacy Policy Last Updated 24/06/2021
 
 RH POSITIVE built the Sqube Darkness app as an Ad Supported-Free app. This SERVICE is provided by RH POSITIVE at no cost and is intended for use as is.
 
